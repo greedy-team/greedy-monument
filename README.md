@@ -1,7 +1,7 @@
 # 🎯 Git 기념비 미션
 
 ## 📌 미션 개요
-이 미션은 Git의 기본적인 협업 과정을 익히기 위한 실습입니다. 아래의 단계를 따라가면서 `fork`, `clone`, `add`, `commit`, `push`, 그리고 `pull request (PR)`을 경험해 봅시다. 최종적으로 자신의 이름을 `README.md` 파일에 추가한 후 PR을 보내면 미션이 완료됩니다!<br/>
+이 미션은 Git의 기본적인 협업 과정을 익히기 위한 미션입니다.<br/>아래의 단계를 따라가면서 `fork`, `clone`, `add`, `commit`, `push`, 그리고 `pull request (PR)`을 경험해 봅시다. 최종적으로 자신의 이름을 `README.md` 파일에 추가한 후 PR을 보내면 미션이 완료됩니다!<br/>
 미션 수행 전에 Maintainer나 lead에게 본인 브랜치의 생성을 요구해야합니다.
 
 ## 🏛 기념비
