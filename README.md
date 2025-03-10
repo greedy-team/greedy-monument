@@ -11,7 +11,7 @@
 ```
 이승용(kokodak) 원태연(TaeyeonRoyce) 김수민(boyekim) 김주환(3Juhwan) 김범수(Indigochi1d)
 송혜정(Songhyejeong) 김준수(gogo1414) 신혜빈(shin378378) 안금서(goldm0ng) 정상희(SANGHEEJEONG)
-남해윤(haeyoon1) 황승준(davidolleh) 신지훈(developowl) 김의진(sansan20535)
+남해윤(haeyoon1) 황승준(davidolleh) 신지훈(developowl) 김의진(sansan20535) 정창우(ChangwooJ)
 
 
 Thanks to all the collaborators who support and love us...
