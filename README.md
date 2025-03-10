@@ -13,7 +13,6 @@
 송혜정(Songhyejeong) 김준수(gogo1414) 신혜빈(shin378378) 안금서(goldm0ng) 정상희(SANGHEEJEONG)
 남해윤(haeyoon1) 황승준(davidolleh) 신지훈_BE(developowl) 김의진(sansan20535) 신지훈_FE(developowl)
 
-
 Thanks to all the collaborators who support and love us...
 -Greedy-
 ```
