@@ -17,7 +17,7 @@
 신지훈(developowl) 정창우(ChangwooJ) 임규영(gxuoo) 강동현(mintcoke123) 박찬빈(INSANE-P)
 김지우(Ji-Woo-Kim) 염지환(JihwanYeom) 이창희(chxghee) 전서희(jeonseohee9) 허석준(gjtjrl303) 
 황혜림 (HyerimH) 심혁(johncakes) 강건(dkr-sjr) 윤재홍(yoonjaehong26) 강예령(ehlung)
-이고은(ke-62) 하수한(chemistryx) 김태우(tae-wooo)
+이고은(ke-62) 하수한(chemistryx) 김태우(tae-wooo) 서현진(nonactress)
 
 
 
