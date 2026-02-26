@@ -3,7 +3,10 @@
 ## 📌 미션 개요
 
 이 미션은 Git의 기본적인 협업 과정을 익히기 위한 미션입니다.<br/>아래의 단계를 따라가면서 `fork`, `clone`, `add`, `commit`, `push`, 그리고 `pull request (PR)`을 경험해 봅시다. 최종적으로 자신의 이름을 `README.md` 파일에 추가한 후 PR을 보내면 미션이 완료됩니다!<br/>
-미션 수행 전에 Maintainer나 lead에게 본인 브랜치의 생성을 요구해야합니다.
+>[!IMPORTANT]
+>미션 수행 전에 Maintainer에게 본인 브랜치의 생성을 요구해야합니다.
+>
+>각 파트의 스터디 채널에 브랜치 생성을 요구해주세요.(프론트엔드-스터디/백엔드-스터디)
 
 ## 🏛 기념비
 
@@ -74,8 +77,8 @@ Thanks to all the collaborators who support and love us...
 
 ### 7️⃣ Merge 승인 받기
 
-Maintainer나 lead에게 디스코드 멘션으로 `Merge`승인을 요구하세요!<br/>
-관리자가 PR을 확인하고 `Merge`하면 미션이 완료됩니다! 🎉
+Maintainer에게 디스코드 멘션으로 `Merge`승인을 요구하세요!<br/>
+Maintainer가 PR을 확인하고 `Merge`하면 미션이 완료됩니다! 🎉
 
 ## 🎉 미션 완료!
 
