@@ -11,13 +11,14 @@
 
 ```
 이승용(kokodak) 원태연(TaeyeonRoyce) 김수민(boyekim) 김주환(3Juhwan) 김범수(Indigochi1d)
-송혜정(Songhyejeong) 김준수(gogo1414) 신혜빈(shin378378) 안금서(goldm0ng) 정상희(SANGHEEJEONG)
+송혜정(Songhyejeong) 김준수(gogo1414) 신혜빈(c0mpuTurtle) 안금서(goldm0ng) 정상희(SANGHEEJEONG)
 남해윤(haeyoon1) 황승준(davidolleh) 신지훈(developowl) 김의진(sansan20535) 신지우(zldn109)
 신지훈(developowl) 정창우(ChangwooJ) 임규영(gxuoo) 강동현(mintcoke123) 박찬빈(INSANE-P)
 김지우(Ji-Woo-Kim) 염지환(JihwanYeom) 이창희(chxghee) 전서희(jeonseohee9) 허석준(gjtjrl303)
 황혜림 (HyerimH) 심혁(johncakes) 강건(dkr-sjr) 윤재홍(yoonjaehong26) 강예령(ehlung)
 이고은(ke-62) 하수한(chemistryx) 김태우(tae-wooo) 서현진(nonactress) 김하늘(kimsky247-coder)
-김민욱(hapdaypy) 홍의민(EM-H20) 김동건(rahwan10) 강대현(Kdahyn) 천동현(realcdh)
+김민욱(hapdaypy) 홍의민(EM-H20) 김동건(rahwan10) 강대현(Kdahyn) 정명준(htdufhc-bit)
+고규민(kokunut) 천동현(realcdh)
 
 
 Thanks to all the collaborators who support and love us...
