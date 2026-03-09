@@ -18,7 +18,7 @@
 황혜림 (HyerimH) 심혁(johncakes) 강건(dkr-sjr) 윤재홍(yoonjaehong26) 강예령(ehlung)
 이고은(ke-62) 하수한(chemistryx) 김태우(tae-wooo) 서현진(nonactress) 김하늘(kimsky247-coder)
 김민욱(hapdaypy) 홍의민(EM-H20) 김동건(rahwan10) 강대현(Kdahyn) 정명준(htdufhc-bit)
-고규민(kokunut) 천동현(realcdh)
+고규민(kokunut) 천동현(realcdh) 이채현(chaehyunL)
 
 
 Thanks to all the collaborators who support and love us...
