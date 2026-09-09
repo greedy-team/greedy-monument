@@ -19,7 +19,9 @@
 이고은(ke-62) 하수한(chemistryx) 김태우(tae-wooo) 서현진(nonactress) 김하늘(kimsky247-coder)
 김민욱(hapdaypy) 홍의민(EM-H20) 김동건(rahwan10) 강대현(Kdahyn) 정명준(htdufhc-bit)
 고규민(kokunut) 천동현(realcdh) 이채현(chaehyunL) 이태규(Cappucciyes) 김하은(haeun92e0)
-손서진(sonseojin702-dotcom)
+손서진(sonseojin702-dotcom) 김병훈(Banghun) 이규형(Leeguhyung) 이우석(woosukkk) 김예주(yejoo0310) 김수아(calmellucy)
+
+
 Thanks to all the collaborators who support and love us...
 -Greedy-
 ```
